@@ -1,0 +1,8 @@
+facebookLoginPython
+
+Simple script to log into facebook
+It runs using selenium and a webdriver
+I use the chromedriver which can be downloaded here:
+	https://chromedriver.storage.googleapis.com/index.html?path=2.27/
+The path to the driver must be put into the code for it to run
+Facebook loign credentials need to be input into the code as well
